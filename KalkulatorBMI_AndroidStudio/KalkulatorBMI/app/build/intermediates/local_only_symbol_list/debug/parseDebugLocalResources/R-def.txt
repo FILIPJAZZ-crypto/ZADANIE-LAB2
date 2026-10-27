@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+id btnCalculate
+id btnClear
+id cbSave
+id etHeight
+id etWeight
+id rbFemale
+id rbMale
+id rgGender
+id tvResult
+layout activity_main
+string app_name
+style Theme.KalkulatorBMI

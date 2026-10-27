@@ -1,0 +1,12 @@
+pl.example.kalkulatorbmi:id/btnCalculate = 0x7f010000
+pl.example.kalkulatorbmi:id/tvResult = 0x7f010008
+pl.example.kalkulatorbmi:string/app_name = 0x7f030000
+pl.example.kalkulatorbmi:id/cbSave = 0x7f010002
+pl.example.kalkulatorbmi:id/rgGender = 0x7f010007
+pl.example.kalkulatorbmi:id/rbFemale = 0x7f010005
+pl.example.kalkulatorbmi:id/rbMale = 0x7f010006
+pl.example.kalkulatorbmi:id/etHeight = 0x7f010003
+pl.example.kalkulatorbmi:style/Theme.KalkulatorBMI = 0x7f040000
+pl.example.kalkulatorbmi:id/etWeight = 0x7f010004
+pl.example.kalkulatorbmi:id/btnClear = 0x7f010001
+pl.example.kalkulatorbmi:layout/activity_main = 0x7f020000
